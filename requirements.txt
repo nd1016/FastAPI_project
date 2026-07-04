@@ -4,7 +4,7 @@ sqlalchemy
 psycopg2-binary
 alembic
 passlib[bcrypt]
-bcrypt
+bcrypt==3.2.0
 PyJWT
 python-multipart
 pydantic[email]
